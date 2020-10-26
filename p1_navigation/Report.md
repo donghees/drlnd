@@ -46,7 +46,7 @@ Episode 1900	Average Score: 15.76
 Episode 2000	Average Score: 15.61
 ```
 
-![image](/Users/donghees/Desktop/plot.png)
+![image](./asset/plot.png)
 
 ## Ideas for Future Work
 
